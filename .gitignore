@@ -1,0 +1,4 @@
+# Project exclude paths
+/hello-plugin/target/
+/plugin/target/
+/plugin-demo-starter/target/

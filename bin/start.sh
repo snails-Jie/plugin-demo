@@ -1,0 +1,1 @@
+java -Dloader.path=plugin -jar plugin-demo-starter-1.0-SNAPSHOT.jar
